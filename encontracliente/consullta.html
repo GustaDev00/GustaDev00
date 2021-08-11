@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Encontra Clientes</title>
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a id="logoLink" href="http://localhost/encontracliente/"><img src="img/logo.png" alt="Logo"></a></li>
+        <li>
+          <input type="text" name="pesquisa" placeholder="Segmento">
+          <input type="button" id="pesquisa" value="Procurar">
+        </li>
+        <li>
+          <input type="button" value="Nome Inserido" id="changename" class="name">
+
+          <div class="edit">
+            <input type="text" placeholder="Insira o seu Nome">
+            <input type="button" value="Change name" class="btn-change" onclick="trocaname()">
+
+          </div>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="changeResult">
+    <div id="controls">
+      <button id="export">Export</button>
+      <button id="zapzap">Send</button>
+      <button id="selectAll">Select All</button>
+    </div>
+    <main id="thumbs">
+      <div class="card">
+        <input type="checkbox" name="selecionado" class="check">
+        <button class="btn-select" onclick="exe.btnSelect(0)">Selecionar</button>
+        <div class="info-img">
+          <figure class="tamanhoIMG">
+            <img src="https://s3.amazonaws.com/images.guiafacil.com/logomarcas/6c59db83-470d-44da-81ef-62e2c9f94fce.png" alt="                                 Le'Essence Estética e Emagrecimento                                                             ">
+          </figure>
+          <article class="info-top">
+            <h1> Le'Essence Estética e Emagrecimento </h1>
+            <p>Clínica de Estética | Imigrantes, Timbó</p>
+          </article>
+          <div class="info-description">
+            <ul class="links-cliente">
+              <li><a href="http://guiafacil.com/site/le-essence-estetica-e-emagrecimento/indaial/sc/85833">Guia Facil</a></li>
+              <li><a href="554733801192">Whats</a></li>
+            </ul>
+            <ol class="redes">
+              <li><a href="https://www.facebook.com/leessencetbo/">facebook</a></li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
+</html>
