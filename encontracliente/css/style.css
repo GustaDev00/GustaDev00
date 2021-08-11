@@ -1,0 +1,182 @@
+@keyframes showSides {
+  0% {
+    transform: scaleX(1);
+    left: -400px;
+  }
+  35% {
+    left: -150px;
+  }
+  50% {
+    transform: scaleX(-1);
+    right: -400px;
+  }
+  100% {
+    right: -150px;
+  }
+}
+@keyframes showBottom {
+  0% {
+    bottom: -500px;
+  }
+  50% {
+    bottom: -120px;
+  }
+  100% {
+    bottom: -500px;
+  }
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f8fafc;
+  overflow-x: hidden;
+}
+body header {
+  background-color: #c1c1c1;
+  margin-bottom: 40px;
+}
+body header nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+body header nav ul li .edit {
+  display: none;
+}
+body #container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body #container #form {
+  max-width: 40vw;
+  width: 100%;
+  background: #ebebeb93;
+  text-align: center;
+  padding: 20px 0;
+}
+body #container #form img {
+  width: 200px;
+  margin-left: -35px;
+  margin-bottom: 50px;
+}
+body #container #form form {
+  margin: 20px 0;
+}
+body #container #form form input[type=text] {
+  width: 70%;
+  height: 30px;
+  padding: 5px 10px;
+  font-size: 18px;
+  border-radius: 20px;
+}
+body #container #form form input[type=button],
+body #container #form form input[type=submit] {
+  padding: 0 10px;
+  border-radius: 20px;
+  height: 40px;
+  font-size: 18px;
+}
+body #container #buttons {
+  margin: 5px auto;
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+body #container #buttons .outher-buttons {
+  cursor: pointer;
+  border: 1px solid #25d366;
+  color: #25d366;
+  background: none;
+  padding: 3px 20px;
+  height: 40px;
+  font-size: 18px;
+}
+body #container #buttons .outher-buttons:hover {
+  border: 1px solid black;
+  color: black;
+}
+body .changeResult {
+  width: 80%;
+  margin: 0 10%;
+}
+body .changeResult #controls button {
+  margin: 15px;
+}
+body .changeResult #thumbs {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+body .changeResult #thumbs .card {
+  width: 250px;
+  margin: 0px 15px 10px 15px;
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 5px;
+}
+body .changeResult #thumbs .card .check {
+  display: none;
+}
+body .changeResult #thumbs .card .btn-select {
+  margin: 5px 0;
+}
+body .changeResult #thumbs .card .info-img .info-top {
+  text-align: center;
+  margin: 5px 0;
+}
+body .changeResult #thumbs .card .info-img figure {
+  max-width: 250px;
+  height: 250px;
+}
+body .changeResult #thumbs .card .info-img figure img {
+  width: 100%;
+}
+body .changeResult #thumbs .card .info-img .info-description {
+  margin: 10px 0;
+}
+body .changeResult #thumbs .card .info-img .info-description .links-cliente {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+body .changeResult #thumbs .card .info-img .info-description .redes {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0px 10px 35px;
+}
+body .changeResult #thumbs .card .info-img .info-description .redes li {
+  margin: 5px 0;
+}
+body .changeResult #thumbs .cardSelected {
+  background-color: #292929;
+}
+body .changeResult #thumbs .cardSelected p, body .changeResult #thumbs .cardSelected h1, body .changeResult #thumbs .cardSelected h2, body .changeResult #thumbs .cardSelected h3, body .changeResult #thumbs .cardSelected li, body .changeResult #thumbs .cardSelected a {
+  color: white;
+}
+body #paulo {
+  position: absolute;
+  bottom: -500px;
+  right: 500px;
+}
+body .animacao {
+  animation: showBottom 10s infinite;
+}
+body #solta {
+  width: 300px;
+  position: absolute;
+  bottom: 0px;
+  animation: showSides 12s infinite;
+}
+
+/*# sourceMappingURL=style.css.map */

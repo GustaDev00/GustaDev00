@@ -1,0 +1,32 @@
+@keyframes showSides {
+    0%{
+        transform: scaleX(1);
+        left: -400px;
+    }
+    25%{}
+    35%{
+        left: -150px;
+    }
+    50%{
+        transform: scaleX(-1);
+        right: -400px;
+    }
+    100%{
+        right: -150px;
+    }
+}
+
+@keyframes showBottom {
+    0%{
+        bottom: -500px;
+    }
+
+    50%{
+        bottom: -120px;
+    }
+
+    100%{
+        bottom: -500px;
+    }
+
+}
