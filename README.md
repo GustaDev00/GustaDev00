@@ -51,12 +51,6 @@ Sou desenvolvedor front-end apaixonado por criar experiências digitais que faç
 ---
 
 <p align="center">
-  <i>“Tecnologia é meu meio favorito para criar experiências digitais com propósito.”</i>
-</p>
-
----
-
-<p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=GustaDev00&show_icons=true&theme=github_dark&hide=prs" alt="GitHub Stats"/>
   <br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaDev00&layout=compact&theme=github_dark" alt="Top Languages">
