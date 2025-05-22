@@ -32,24 +32,6 @@ Sou desenvolvedor front-end apaixonado por criar experiências digitais que faç
 
 ---
 
-## 🏢 Experiências
-
-- **👨‍💻 FIAP** – Dev Front-end (React, Next.js, TS, Styled-Components, CI/CD)
-- **🚀 Forever Liss** – E-commerce com VTEX IO e Fast store, APIs, performance e SEO
-- **🛒 Corebiz** – E-commerce com VTEX IO, SSR, integrações de pagamento e logística
-- **📈 Score Media & Grupo Ideal Trends** – SEO técnico, performance e automações
-
----
-
-## 🌐 Vamos conectar?
-
-- 🌍 [Website](https://gustapt.vercel.app)
-- 🧠 [LinkedIn](https://www.linkedin.com/in/gustavo-pontes-aa8219287)
-- 🛍️ [Bubowl](https://www.bubowl.com.br/)
-- 🎥 [Canal no YouTube](https://www.youtube.com/channel/UCJSZJUFJoVeKgAFZzJ6HPgg)
-
----
-
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=GustaDev00&show_icons=true&theme=github_dark&hide=prs" alt="GitHub Stats"/>
   <br/> -->
