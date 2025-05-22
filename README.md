@@ -17,8 +17,6 @@ Sou desenvolvedor front-end apaixonado por criar experiências digitais que faç
 - 📦 Integração com APIs REST e GraphQL
 - ⚙️ CI/CD com GitHub Actions
 
-Sempre colaborando próximo ao design e back-end, gosto de transformar requisitos complexos em interfaces simples e eficientes.
-
 ---
 
 ## 🛠️ Tecnologias e ferramentas
@@ -37,22 +35,15 @@ Sempre colaborando próximo ao design e back-end, gosto de transformar requisito
 ## 🏢 Experiências
 
 - **👨‍💻 FIAP** – Dev Front-end (React, Next.js, TS, Styled-Components, CI/CD)
-- **🚀 Bubowl** – Cofundador, criação de e-commerces, APIs, performance, SEO
+- **🚀 Forever Liss** – E-commerce com VTEX IO e Fast store, APIs, performance e SEO
 - **🛒 Corebiz** – E-commerce com VTEX IO, SSR, integrações de pagamento e logística
 - **📈 Score Media & Grupo Ideal Trends** – SEO técnico, performance e automações
 
 ---
 
-## 📚 Formação
-
-- 🎓 **FIAP** – Desenvolvimento de Sistemas
-- 🎓 **ITB Barueri** – Informática para Internet
-
----
-
 ## 🌐 Vamos conectar?
 
-- 🌍 [Meu portfólio](https://gustapt.vercel.app)
+- 🌍 [Website](https://gustapt.vercel.app)
 - 🧠 [LinkedIn](https://www.linkedin.com/in/gustavo-pontes-aa8219287)
 - 🛍️ [Bubowl](https://www.bubowl.com.br/)
 - 🎥 [Canal no YouTube](https://www.youtube.com/channel/UCJSZJUFJoVeKgAFZzJ6HPgg)
@@ -66,7 +57,7 @@ Sempre colaborando próximo ao design e back-end, gosto de transformar requisito
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustaDev00&show_icons=true&theme=github_dark&hide=prs" alt="GitHub Stats"/>
-  <br/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=GustaDev00&show_icons=true&theme=github_dark&hide=prs" alt="GitHub Stats"/>
+  <br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaDev00&layout=compact&theme=github_dark" alt="Top Languages">
 </p>
