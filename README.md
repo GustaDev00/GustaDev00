@@ -1,21 +1,72 @@
-# Olá! Eu sou o Gustavo 👋
+<h1 align="center">Olá! Eu sou o Gustavo 👋</h1>
 
-💻 Desenvolvedor Front-end | TypeScript & React Lover  
-📍 Barueri - SP | 🇧🇷  
-🚀 Atualmente explorando: WebRTC, Electron e AR  
+<p align="center">
+  Desenvolvedor Front-end | React • Next.js • TypeScript • VTEX • SEO • Performance
+</p>
 
-## 🧰 Tecnologias que uso
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+---
+
+## 🧠 Sobre mim
+
+Sou desenvolvedor front-end apaixonado por criar experiências digitais que façam sentido para as pessoas. Tenho sólida experiência em e-commerces (VTEX IO, Shopify), produtos educacionais e websites institucionais, atuando com foco em:
+
+- 🧩 Arquitetura de componentes escalável
+- 🖼️ UI/UX com foco em acessibilidade
+- 🚀 Performance e Core Web Vitals
+- ♻️ Código limpo, responsivo e reutilizável
+- 📦 Integração com APIs REST e GraphQL
+- ⚙️ CI/CD com GitHub Actions
+
+Sempre colaborando próximo ao design e back-end, gosto de transformar requisitos complexos em interfaces simples e eficientes.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled--Components-db7093?style=flat&logo=styled-components&logoColor=white)
+![VTEX IO](https://img.shields.io/badge/-VTEX-E31837?style=flat&logo=vtex&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-0F9D58?style=flat&logo=google)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## 📈 GitHub Stats
-![GustaDev00's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaDev00&show_icons=true&theme=tokyonight)
+---
 
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-pontes-aa8219287)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel&logoColor=white)](https://gustapt.vercel.app)
-[![Canal YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJSZjUFJoVeKgAFZzJ6HPgg)
+## 🏢 Experiências
+
+- **👨‍💻 FIAP** – Dev Front-end (React, Next.js, TS, Styled-Components, CI/CD)
+- **🚀 Bubowl** – Cofundador, criação de e-commerces, APIs, performance, SEO
+- **🛒 Corebiz** – E-commerce com VTEX IO, SSR, integrações de pagamento e logística
+- **📈 Score Media & Grupo Ideal Trends** – SEO técnico, performance e automações
+
+---
+
+## 📚 Formação
+
+- 🎓 **FIAP** – Desenvolvimento de Sistemas
+- 🎓 **ITB Barueri** – Informática para Internet
+
+---
+
+## 🌐 Vamos conectar?
+
+- 🌍 [Meu portfólio](https://gustapt.vercel.app)
+- 🧠 [LinkedIn](https://www.linkedin.com/in/gustavo-pontes-aa8219287)
+- 🛍️ [Bubowl](https://www.bubowl.com.br/)
+- 🎥 [Canal no YouTube](https://www.youtube.com/channel/UCJSZJUFJoVeKgAFZzJ6HPgg)
+
+---
+
+<p align="center">
+  <i>“Tecnologia é meu meio favorito para criar experiências digitais com propósito.”</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustaDev00&show_icons=true&theme=github_dark&hide=prs" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaDev00&layout=compact&theme=github_dark" alt="Top Languages">
+</p>
