@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Gustavo 👋</h1>
 
 <p align="center">
-  Desenvolvedor Front-end | React • Next.js • TypeScript • VTEX • SEO • Performance
+  Desenvolvedor Front-end | React • Next.js • TypeScript • ecommerce • SEO • Performance
 </p>
 
 ---
